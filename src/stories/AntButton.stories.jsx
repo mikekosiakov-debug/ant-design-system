@@ -130,6 +130,10 @@ Types.parameters = {
     description: {
       story: 'There are `primary`, `default`, `dashed`, `text` and `link` button types in Ant Design.',
     },
+  design: {
+      type: 'figma',
+      url: 'https://www.figma.com/design/YrlxdeckWRcVKlHjqS4ieu/AntKT?node-id=28193-54511&t=fKEa41hHSHU21PcV-11',
+    },
   },
 };
 
